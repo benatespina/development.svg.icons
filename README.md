@@ -6,7 +6,7 @@ The big difference between this project and *devicons* is that **my icons have t
 
 The following sprite contains all the icons of this collection:
 
-![devSVGIconSpace](https://github.com/benatespina/devSVGIconSpace/sprites/sprites.png)
+![devSVGIconSpace](https://raw.githubusercontent.com/benatespina/devSVGIconSpace/master/sprites/sprites.png)
 
 ## Credits
 Created by **benatespina** - [benatespina@gmail.com](mailto:benatespina@gmail.com). Copyright (c) 2014
